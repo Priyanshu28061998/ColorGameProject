@@ -1,0 +1,15 @@
+{
+  "name": "colorgameproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ColorProject"
+  },
+  "author": "Priyanshu",
+  "license": "ISC",
+  "homepage":"https://Priyanshu28061998.github.io/ColorGameProject",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
